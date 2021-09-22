@@ -21,7 +21,7 @@ $ python main.py
 
 # A execução será iniciado no Bash
 ```
-# Você tem a opção de baixar o arquivo em ZIP, clicando em CODE.
+OBS: Você tem a opção de baixar o arquivo em ZIP, clicando em CODE.
 
 ### 🛠 Tecnologias
 
