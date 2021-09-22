@@ -19,7 +19,7 @@ $ cd Projeto_Lata_Tinta
 # Execute a aplicação
 $ python main.py
 
-# A execução será iniciado no Bash
+# A execução será iniciada no Bash
 ```
 OBS: Você tem a opção de baixar o arquivo em ZIP, clicando em CODE.
 
