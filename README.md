@@ -4,9 +4,10 @@
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Python 3.9](https://www.python.org/). 
-Além disto é bom ter um editor para trabalhar com o código como [PyCharm](https://www.jetbrains.com/pt-br/pycharm/)
 
-### 🎲 Rodando o Back End
+Além disso é bom ter um editor para trabalhar com o código como [PyCharm](https://www.jetbrains.com/pt-br/pycharm/)
+
+### 🎲 Rodando o Projeto
 
 ```bash
 # Clone este repositório
